@@ -1,0 +1,6 @@
+git push
+git add .
+git checkout
+git pull
+git status
+git init
